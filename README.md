@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalil0258
 - 👀 I’m interested in web developement 
-- 🌱 I’m currently learning  react js 
+- 🌱 I’m  react js developer 
 - 💞️ I’m looking to collaborate on some web projects ,so if u want some help just ask .
 - 📫 How to reach me :linkedin-> Brahim Khalil Hadjaz
 
